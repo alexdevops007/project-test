@@ -54,7 +54,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Alex Sms 6.0 Mokonzi**
+* **Alex Sms Nta 6.0**
 
 ## License
 
